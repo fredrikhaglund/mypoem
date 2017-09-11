@@ -2,8 +2,11 @@ The rainbow
 ===========
 
 Red
+Yellow
+Orange
 Green
 Blue
+Violette
 
-All rhe beutiful colors of the rainbow.
+All the beutiful colors of the rainbow.
 So say I.
